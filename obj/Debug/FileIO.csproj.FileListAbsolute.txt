@@ -1,0 +1,7 @@
+F:\JAVA\C#\FileIO\FileIO\bin\Debug\FileIO.exe.config
+F:\JAVA\C#\FileIO\FileIO\bin\Debug\FileIO.exe
+F:\JAVA\C#\FileIO\FileIO\bin\Debug\FileIO.pdb
+F:\JAVA\C#\FileIO\FileIO\obj\Debug\FileIO.csprojAssemblyReference.cache
+F:\JAVA\C#\FileIO\FileIO\obj\Debug\FileIO.csproj.CoreCompileInputs.cache
+F:\JAVA\C#\FileIO\FileIO\obj\Debug\FileIO.exe
+F:\JAVA\C#\FileIO\FileIO\obj\Debug\FileIO.pdb
